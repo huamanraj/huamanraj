@@ -6,7 +6,7 @@ I'm a second-year computer science student and a passionate MERN stack developer
 - 🌱 I’m constantly learning and exploring new technologies in the web development ecosystem.
 - 👯 I’m looking to collaborate on projects that focus on solving real world problem, where I can bring my expertise in MERN stack development.
 - 💬 Ask me about anything related to JavaScript, React, Node.js, or MongoDB.
-- 📫 How to reach me: [Your Email] | [LinkedIn] | [Twitter]
+- 📫 How to reach me: [amanraj12.ar@gmail.com](amanraj12.ar@gmail.com) | [LinkedIn](https://www.linkedin.com/in/huamanraj)  | [Twitter](https://twitter.com/huamanraj)
 
 ## Tech Stack
 
@@ -23,8 +23,8 @@ I'm a second-year computer science student and a passionate MERN stack developer
 
 ## Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/huamanraj)
-- Twitter: [Your Twitter Handle](https://twitter.com/huamanraj)
-- Blog: [Your Blog](https://hashnode.com/@huamanraj)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/huamanraj)
+- Twitter: [Twitter Handle](https://twitter.com/huamanraj)
+- Blog: [Hashnode](https://hashnode.com/@huamanraj)
 
 Excited to learn, grow, and contribute to the world of technology! Let's connect and build amazing things together. 🚀
