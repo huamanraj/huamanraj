@@ -1,6 +1,6 @@
 # Hi there, I'm Aman Raj! 👋
 
-I'm a second-year computer science student and a passionate MERN stack developer with a love for creating innovative and efficient web applications. Here's a bit about me:
+I'm a third-year computer science student and a passionate MERN stack developer with a love for creating innovative and efficient web applications. Here's a bit about me:
 
 - 🎓 I'm currently pursuing my Bachelor's in Computer Science at SKIT Jaipur.
 - 🌱 I’m constantly learning and exploring new technologies in the web development ecosystem.
