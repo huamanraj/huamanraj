@@ -16,11 +16,6 @@ I'm a third-year computer science student and a passionate MERN stack developer 
 - **Version Control:** Git
 - **Tools:** VSCode, Postman, MongoDB Compass
 
-
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=huamanraj&show_icons=true&theme=radical)
-
 ## Let's Connect
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/huamanraj)
