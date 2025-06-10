@@ -1,33 +1,18 @@
 # Hi there, I'm Aman Raj! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Problem+Solver&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Problem+Solver&center=true&width=380&height=45">
 </div>
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/huamanraj)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amanraj.me)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanraj12.ar@gmail.com)
-  
-</div>
-
----
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** and third-year Computer Science student at SKIT Jaipur, specializing in building innovative web applications that solve real-world problems.
+I'm a passionate **Full Stack Developer** and final-year Computer Science student at SKIT Jaipur, specializing in building innovative web applications that solve real-world problems.
 
 - 🎓 **Pursuing** Bachelor's in Computer Science & Engineering (IoT) - **7.56 CGPA**
 - 💼 **Experience** in Full Stack Development with **TeleWell** and **Automatically Enterprise**
 - 🏆 **Open Source Mentor** at GSSoC '24 - **Ranked First**
 - 🎯 **Campus Leader** for Code4GovTech Initiative
 - 🏅 **Winner** of IBG x House of Dev AI Buildathon
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huamanraj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-
 ---
 
 ## 💼 Professional Experience
@@ -73,63 +58,6 @@ I'm a passionate **Full Stack Developer** and third-year Computer Science studen
 
 ---
 
-## 🎯 Featured Projects
-
-### 🤖 **Web Builder AI** - *AI Website Generator*
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://your-demo-link.com) [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/huamanraj/web-builder-ai)
-
-AI-powered platform that generates complete websites from natural language descriptions using MERN Stack & Sonar LLM API.
-
-**Key Features:** 🚀 Instant website generation • ✨ Natural language processing • 🎨 Code customization • 📱 One-click deployment
-
----
-
-### 👕 **HOODZ** - *The Hoodie Shop*
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://your-demo-link.com) [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/huamanraj/hoodz)
-
-Modern e-commerce platform for premium streetwear with secure authentication and payment processing.
-
-**Tech Stack:** ⚛️ React • 🔷 TypeScript • 🍃 MongoDB • 💳 Razorpay • 🔐 Clerk Auth
-
----
-
-### 🏠 **RentEasily** - *Rental Property Platform*
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://your-demo-link.com) [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/huamanraj/renteasily)
-
-Responsive rental platform with geolocation-based search and Airbnb-inspired UX design.
-
-**Features:** 📍 Geolocation search • 🎭 Framer Motion animations • 🔥 Appwrite backend • 📱 Role-based dashboards
-
----
-
-## 🏆 Achievements & Leadership
-
-<div align="center">
-
-### 🎖️ **Open Source Contributions**
-**GSSoC '24 Mentor** - *Ranked #1* | Mentored 50+ students in open source development
-
-### 🌟 **Leadership Roles**
-**Campus Leader** - *Code4GovTech* | Promoting government technology solutions
-
-### 🏅 **Competition Wins**
-**AI Buildathon Winner** - *IBG x House of Dev* | Built AI-enabled recruitment platform
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huamanraj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huamanraj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
 
 ## 🎯 Current Focus
 
