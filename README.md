@@ -82,11 +82,6 @@ I'm a passionate **Full Stack Developer** and final-year Computer Science studen
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=huamanraj&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
 <div align="center">
   
   **⭐ Star my repositories if you find them interesting!**
