@@ -1,7 +1,7 @@
-# Aman Raj
+## Aman Raj
 
 Full Stack Developer  
 Jaipur, India  
 [LinkedIn](https://linkedin.com/in/huamanraj) · [Portfolio](https://amanraj.me)
 
-Builds production web apps using Next.js and Node.js. 
+> Builds production web apps using Next.js and Node.js. 
